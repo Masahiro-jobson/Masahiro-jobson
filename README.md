@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node.js, and Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://masahirotogasaki.netlify.app/](https://masahirotogasaki.netlify.app/)
+- 👨‍💻 All of my projects are available at https://scintillating-macaron-7b188d.netlify.app/
 
 - 📫 How to reach me **m.togasaki1026@gmail.com**
 
